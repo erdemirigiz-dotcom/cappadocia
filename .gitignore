@@ -1,0 +1,10 @@
+chrome_profile*/
+*.log
+.env
+.env.*
+!.env.example
+*.log
+
+# SAST tarama raporlari (push edilmez)
+sast/
+.vercel
